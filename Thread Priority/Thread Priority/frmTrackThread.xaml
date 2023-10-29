@@ -1,0 +1,24 @@
+﻿<Window x:Class="Thread_Priority.FrmTrackThread"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        mc:Ignorable="d"
+        WindowStartupLocation="CenterScreen"
+        WindowStyle="ToolWindow"
+        Title="FrmTrackThread" Height="250" Width="300">
+        <StackPanel Orientation="Vertical" 
+                    VerticalAlignment="Center" 
+                    HorizontalAlignment="Center">
+            
+            <TextBlock Text="-Thread Starts-"
+                       FontSize="28"
+                       x:Name="ThreadStartEnd"/>
+            
+                <Button Content="Run"
+                        Margin="30"
+                        FontSize="24"
+                        x:Name="BtnRun"
+                        Click="BtnRun_OnClick"/>
+        </StackPanel>
+</Window>

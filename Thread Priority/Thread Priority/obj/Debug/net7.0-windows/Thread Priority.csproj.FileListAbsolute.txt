@@ -1,0 +1,19 @@
+C:\Users\Jason User\Documents\Thread Priority\Thread Priority\bin\Debug\net7.0-windows\Thread Priority.exe
+C:\Users\Jason User\Documents\Thread Priority\Thread Priority\bin\Debug\net7.0-windows\Thread Priority.deps.json
+C:\Users\Jason User\Documents\Thread Priority\Thread Priority\bin\Debug\net7.0-windows\Thread Priority.runtimeconfig.json
+C:\Users\Jason User\Documents\Thread Priority\Thread Priority\bin\Debug\net7.0-windows\Thread Priority.dll
+C:\Users\Jason User\Documents\Thread Priority\Thread Priority\bin\Debug\net7.0-windows\Thread Priority.pdb
+C:\Users\Jason User\Documents\Thread Priority\Thread Priority\obj\Debug\net7.0-windows\frmTrackThread.baml
+C:\Users\Jason User\Documents\Thread Priority\Thread Priority\obj\Debug\net7.0-windows\frmTrackThread.g.cs
+C:\Users\Jason User\Documents\Thread Priority\Thread Priority\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\Jason User\Documents\Thread Priority\Thread Priority\obj\Debug\net7.0-windows\Thread Priority_MarkupCompile.cache
+C:\Users\Jason User\Documents\Thread Priority\Thread Priority\obj\Debug\net7.0-windows\Thread Priority.g.resources
+C:\Users\Jason User\Documents\Thread Priority\Thread Priority\obj\Debug\net7.0-windows\Thread Priority.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jason User\Documents\Thread Priority\Thread Priority\obj\Debug\net7.0-windows\Thread Priority.AssemblyInfoInputs.cache
+C:\Users\Jason User\Documents\Thread Priority\Thread Priority\obj\Debug\net7.0-windows\Thread Priority.AssemblyInfo.cs
+C:\Users\Jason User\Documents\Thread Priority\Thread Priority\obj\Debug\net7.0-windows\Thread Priority.csproj.CoreCompileInputs.cache
+C:\Users\Jason User\Documents\Thread Priority\Thread Priority\obj\Debug\net7.0-windows\Thread Priority.dll
+C:\Users\Jason User\Documents\Thread Priority\Thread Priority\obj\Debug\net7.0-windows\refint\Thread Priority.dll
+C:\Users\Jason User\Documents\Thread Priority\Thread Priority\obj\Debug\net7.0-windows\Thread Priority.pdb
+C:\Users\Jason User\Documents\Thread Priority\Thread Priority\obj\Debug\net7.0-windows\Thread Priority.genruntimeconfig.cache
+C:\Users\Jason User\Documents\Thread Priority\Thread Priority\obj\Debug\net7.0-windows\ref\Thread Priority.dll
